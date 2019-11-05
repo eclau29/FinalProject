@@ -14,10 +14,11 @@ QRx - Patient/Provider Interface. A collaborative proof of concept for streamlin
 * Angular/TS
 * Angular Material Component Library
 * Bootstrap Component Library
+* Ionic Framework
 * HTML5/CSS3/JS
 
 ### Demo Application
-http://3.130.50.134:8080/QRx/#/login
+http://3.130.128.47:8080/QRx/
 
 ### Entity Diagram
 ![qrxdbERD](qrxdbERD.png)
